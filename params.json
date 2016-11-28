@@ -1,6 +1,6 @@
 {
-  "name": "一些參考資料",
+  "name": "※參考資料",
   "tagline": "",
-  "body": "### Welcome to GitHub Pages.\r\n\r\n\r\n",
+  "body": "#\r\n```\r\n整理一些相關對照表與概念介紹，提供讀者參考\r\n```\r\n\r\n## 程式語言 x 資料格式(轉換程式套件對照表)   \r\nhttps://gist.github.com/dataengeer/86d2e79e1761f8a8dd2fc7fc7e84df45\r\n\r\n\r\n## 檔案格式相互轉換 工具對照表\r\nhttps://gist.github.com/dataengeer/4e6f8ff0abbb7ee787b49645311e9b78\r\n\r\n## 內文編碼轉碼概念與工具\r\nhttps://gist.github.com/dataengeer/d6e2d3c89e9b04ae49f56d05d51eeb4b\r\n\r\n## 資料工程 （Data Engineering ）參考閱讀 \r\n\r\nhttps://gist.github.com/dataengeer/aaaefc8465dcbbf6885b38c82931a9fe\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
